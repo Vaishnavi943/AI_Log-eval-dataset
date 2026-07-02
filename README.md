@@ -17,7 +17,7 @@ docker compose up --build
 ```
 
 - Backend: http://localhost:8000 (docs at /docs)
-- Frontend: http://localhost:5173
+- Frontend: https://ai-log-eval-dataset.vercel.app
 
 ## Deploying both on Vercel
 
